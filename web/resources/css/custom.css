@@ -1,0 +1,15 @@
+/* your styles go here */
+.card-close-custom{
+    top: auto;
+}
+
+.table.table-striped.table-hover th{
+    border: none;
+}
+.table.table-striped.table-hover td{
+    border: none;
+}
+.table.table-striped.table-hover tr{
+    line-height: 40px;
+}
+textarea.autosize { min-height: 50px; }
